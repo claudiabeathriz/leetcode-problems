@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class TwoSumBest{
 
     public int[] twoSum(int[] nums, int target) {
