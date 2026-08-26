@@ -6,7 +6,7 @@
 
 > **"I am repeatedly searching for a value that I could store when I see it."**
 
-## 🧠 Problem-Solving Process
+## Problem-Solving Process
 
 ```text
 1. Brute force
@@ -498,9 +498,9 @@ In the worst case, we may store almost every element of the array in the `HashMa
 * `put()` creates the key → value association.
 * The optimized solution achieves **O(n) time** and **O(n) space**.
 
-## 💭 Main Insight
+## Main Insight
 
-The most important idea I want to remember from this problem is:
+The most important idea from this problem is:
 
 > **When I repeatedly search for something I've already seen, I should ask whether I can store the information I need in a data structure that makes future lookups faster.**
 
