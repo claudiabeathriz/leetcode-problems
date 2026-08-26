@@ -1,6 +1,7 @@
 # Two Sum
 
 **Difficulty:** Easy
+
 **Topics:** Array, HashMap
 
 > **"I am repeatedly searching for a value that I could store when I see it."**
